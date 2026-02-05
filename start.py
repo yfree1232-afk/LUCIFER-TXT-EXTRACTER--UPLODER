@@ -48,7 +48,7 @@ buttons = InlineKeyboardMarkup([
                   InlineKeyboardButton("📓 Aᴘᴘx Lɪsᴛ", callback_data="appxlist")
                 ],
                 [
-                   InlineKeyboardButton("🕹ᴄʜᴀɴɴᴇʟ", url="https://t.me/urs_lucifer")
+                   InlineKeyboardButton("🕹ᴄʜᴀɴɴᴇʟ", url="https://t.me/+BBzQ9El1KvNjZTE1")
                 ]
                 
                 ])
